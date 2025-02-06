@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue with Ruby's `method_missing` method.  While useful for handling missing methods, it can lead to unexpected behavior if not used carefully. The `bug.rb` file shows an example, while `bugSolution.rb` offers potential solutions and best practices.
